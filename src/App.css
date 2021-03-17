@@ -266,6 +266,20 @@
     margin: 5px;
     width: 90%;
   }
+  .signup__login {
+    background-color: rgb(88, 85, 221);
+    margin-top: 10%;
+    color: white;
+    padding: 5px 10px;
+  }
+
+  .signup__login1 {
+    background-color: rgb(88, 85, 221);
+    color: white;
+    padding: 5px 10px;
+    margin-left: 1%;
+  }
+  
   .button span {
     cursor: pointer;
     display: inline-block;
